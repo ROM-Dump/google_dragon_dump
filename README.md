@@ -1,0 +1,18 @@
+## ryu-user 8.1.0 OPM1.171019.026 4609799 release-keys
+- Manufacturer: google
+- Platform: tegra210-dragon
+- Codename: dragon
+- Brand: google
+- Flavor: ryu-user
+- Release Version: 8.1.0
+- Id: OPM1.171019.026
+- Incremental: 4609799
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: undefined
+- Screen Density: undefined
+- Fingerprint: google/ryu/dragon:8.1.0/OPM1.171019.026/4609799:user/release-keys
+- OTA version: 
+- Branch: ryu-user-8.1.0-OPM1.171019.026-4609799-release-keys
+- Repo: google_dragon_dump
